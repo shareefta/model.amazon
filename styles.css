@@ -61,11 +61,14 @@ body
 }
 .pic
 {
-    margin: 15px;
+    margin: 15px; */
     width: 90%;
     height: 90%;
+    overflow: hidden;
 }
 .container
 {
+    margin-top: 20px;
     margin-left: 10px;
+    margin-bottom: 20px;
 }
